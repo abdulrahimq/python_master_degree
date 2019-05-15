@@ -100,7 +100,7 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 
 | No. | Course  | Status
 | --- | ------------- | ----
-| 5. | [Write Better Python](https://teamtreehouse.com/library/write-better-python)| ![](art/checkmark.png?raw=true)
+| 5. | [Write Better Python](https://teamtreehouse.com/library/write-better-python)| (art/checkmark.png?raw=true)
 | 6. | [Dates and Times](https://teamtreehouse.com/library/dates-and-times-in-python) | ![](art/checkmark.png?raw=true)
 | 7. | [Regular Expressions](https://teamtreehouse.com/library/regular-expressions-in-python) | ![](art/checkmark.png?raw=true)
 | P3. | Project 3: Work Log
