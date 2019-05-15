@@ -32,7 +32,7 @@ Modeled after an academic structure this intensely focused area of study is brok
 
 | No. | Project | Hours | Status 
 | --- | ------------- | ------------ | ---
-| 1. | [Number Guessing Game](unit_01/project_01/guessing_game.py) | 2 hours | ![](art/working.png?raw=true)
+| 1. | [Number Guessing Game](unit_01/project_01/guessing_game.py) | 2 hours | [](art/working.png?raw=true)
 | 2. | Build a Soccer League | 6 hours
 | 3. | Work Log | 10 hours
 | 4. | Work Log (with DB) | 5 hours
